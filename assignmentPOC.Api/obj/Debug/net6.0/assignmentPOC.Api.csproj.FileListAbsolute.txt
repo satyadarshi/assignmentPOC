@@ -1,0 +1,7 @@
+C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\obj\Debug\net6.0\assignmentPOC.Api.csproj.AssemblyReference.cache
+C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\obj\Debug\net6.0\assignmentPOC.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\obj\Debug\net6.0\assignmentPOC.Api.AssemblyInfoInputs.cache
+C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\obj\Debug\net6.0\assignmentPOC.Api.AssemblyInfo.cs
+C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\obj\Debug\net6.0\assignmentPOC.Api.csproj.CoreCompileInputs.cache
+C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\obj\Debug\net6.0\assignmentPOC.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\obj\Debug\net6.0\assignmentPOC.Api.MvcApplicationPartsAssemblyInfo.cache

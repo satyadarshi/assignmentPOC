@@ -1,0 +1,17 @@
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\bin\Debug\net6.0\TaskManager.Data.deps.json
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\bin\Debug\net6.0\TaskManager.Data.runtimeconfig.json
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\bin\Debug\net6.0\TaskManager.Data.dll
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\bin\Debug\net6.0\TaskManager.Data.pdb
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\bin\Debug\net6.0\TaskManager.Domain.dll
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\bin\Debug\net6.0\TaskManager.Domain.pdb
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.csproj.AssemblyReference.cache
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.AssemblyInfoInputs.cache
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.AssemblyInfo.cs
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.csproj.CoreCompileInputs.cache
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.csproj.CopyComplete
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.dll
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\refint\TaskManager.Data.dll
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.pdb
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\TaskManager.Data.genruntimeconfig.cache
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Data\obj\Debug\net6.0\ref\TaskManager.Data.dll

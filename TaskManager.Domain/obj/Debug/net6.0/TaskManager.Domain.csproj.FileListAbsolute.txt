@@ -1,0 +1,11 @@
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.deps.json
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.dll
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.pdb
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfo.cs
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.dll
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\obj\Debug\net6.0\refint\TaskManager.Domain.dll
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.pdb
+C:\.NETProjectsGitHub\assignmentPOC\TaskManager.Domain\obj\Debug\net6.0\ref\TaskManager.Domain.dll
