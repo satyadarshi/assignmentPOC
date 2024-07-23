@@ -32,7 +32,7 @@ namespace TaskManager.UnitTest
         public async Task Handle_TaskExists_SetsIsDeletedTrue()
         {
             // Arrange
-            var command = new DeleteTaskDetailCommand { Id = 1 };
+            var command = new DeleteTaskDetailCommand { TaskDetailId = 1 };
             var task = new TaskDetail { Id = 1, IsDeleted = false };
 
             _taskRepositoryMock.Setup(repo => repo.GetTaskByIdAsync(1)).ReturnsAsync(task);
@@ -51,7 +51,7 @@ namespace TaskManager.UnitTest
         public async Task Handle_TaskDoesNotExist_ReturnsTrue()
         {
             // Arrange
-            var command = new DeleteTaskDetailCommand { Id = 1 };
+            var command = new DeleteTaskDetailCommand { TaskDetailId = 1 };
 
             _taskRepositoryMock.Setup(repo => repo.GetTaskByIdAsync(1)).ReturnsAsync((TaskDetail)null);
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SBGyTbhzjz+IoB5OYXSjbSj132AJ94DLkTqCBEZK7t6X8MRmyikshWy9f/JyiluPIBmta+e3+ZPJrkkW7u7cMQ==",
+  "dgSpecHash": "FzXBqjixLo1favxDJbJp2MddVnJnFUEhkt5Ax+o5ZZiVN7k0KGCjtMFxrhOC3pufw5woE92ZYdpQ1/elJposdg==",
   "success": true,
   "projectFilePath": "C:\\.NETProjectsGitHub\\assignmentPOC\\assignmentPOC.Api\\TaskManager.UnitTest\\TaskManager.UnitTest.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\satya\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "C:\\Users\\satya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\satya\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\satya\\.nuget\\packages\\microsoft.extensions.features\\6.0.32\\microsoft.extensions.features.6.0.32.nupkg.sha512",
     "C:\\Users\\satya\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\satya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\satya\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",

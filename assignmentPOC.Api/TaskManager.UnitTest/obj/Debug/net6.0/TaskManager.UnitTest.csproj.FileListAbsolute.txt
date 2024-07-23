@@ -154,3 +154,4 @@ C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\TaskManager.UnitTest\obj\D
 C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\TaskManager.UnitTest\obj\Debug\net6.0\TaskManager.UnitTest.pdb
 C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\TaskManager.UnitTest\obj\Debug\net6.0\TaskManager.UnitTest.genruntimeconfig.cache
 C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\TaskManager.UnitTest\obj\Debug\net6.0\ref\TaskManager.UnitTest.dll
+C:\.NETProjectsGitHub\assignmentPOC\assignmentPOC.Api\TaskManager.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
